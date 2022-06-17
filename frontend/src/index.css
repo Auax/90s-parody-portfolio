@@ -1,0 +1,24 @@
+@import url("https://unpkg.com/98.css");
+
+body {
+    margin: 0;
+    font-family: TimesNewRoman, Times New Roman, Times, Baskerville, Georgia, serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    background: url("assets/bg.gif");
+    color: #fff;
+}
+
+code {
+    font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1, h2, h3, h4, span, p {
+    margin: 10px;
+}
+
+ul {
+    margin: initial;
+    font-size: 1.5em;
+}
